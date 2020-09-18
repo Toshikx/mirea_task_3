@@ -1,4 +1,4 @@
-package ru.mirea.ikbo_16_19.isaev;
+package ru.mirea.ikbo_16_19.isaev.exercise4;
 
 import java.util.Arrays;
 
