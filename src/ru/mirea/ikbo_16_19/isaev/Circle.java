@@ -75,6 +75,8 @@ public class Circle {
     private void calcLenght(){
         lenght = Math.PI * 2 * radius;
     }
-
+    private void HelloWorld(){
+	System.out.println("Hello, World!");
+    }
 
 }
