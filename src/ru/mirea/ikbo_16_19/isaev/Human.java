@@ -6,6 +6,7 @@ public class Human {
     Leg[] legs = {
             new Leg("Left leg"), new Leg("Right leg")
     };
+    //wait, what for do I need it?
     Hand[] hands = {
             new Hand("Left hand"), new Hand("Right hand")
     };
