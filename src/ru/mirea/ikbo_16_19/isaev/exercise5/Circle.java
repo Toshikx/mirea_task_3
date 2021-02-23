@@ -1,4 +1,4 @@
-package ru.mirea.ikbo_16_19.isaev;
+package ru.mirea.ikbo_16_19.isaev.exercise5;
 
 public class Circle {
     private int radius;
@@ -11,6 +11,11 @@ public class Circle {
         this.xPos = xPos;
         this.yPos = yPos;
         calcLenght();
+    }
+
+    public Circle(int xPos, int yPos) {
+        this.xPos = xPos;
+        this.yPos = yPos;
     }
 
     public Circle(double lenght) {
@@ -75,6 +80,8 @@ public class Circle {
     private void calcLenght(){
         lenght = Math.PI * 2 * radius;
     }
-
+    private void HelloWorld(){
+	System.out.println("Hello, World!");
+    }
 
 }

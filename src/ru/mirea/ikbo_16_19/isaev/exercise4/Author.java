@@ -1,9 +1,10 @@
-package ru.mirea.ikbo_16_19.isaev;
+package ru.mirea.ikbo_16_19.isaev.exercise4;
 
 public class Author {
     String name;
     String email;
     char gender;
+//adding some comments
 
     public Author(String name, String email, char gender) {
         this.name = name;

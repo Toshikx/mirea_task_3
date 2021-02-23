@@ -1,4 +1,4 @@
-package ru.mirea.ikbo_16_19.isaev;
+package ru.mirea.ikbo_16_19.isaev.exercise4;
 
 import java.util.Arrays;
 
@@ -6,6 +6,7 @@ public class Human {
     Leg[] legs = {
             new Leg("Left leg"), new Leg("Right leg")
     };
+    //wait, what for do I need it?
     Hand[] hands = {
             new Hand("Left hand"), new Hand("Right hand")
     };

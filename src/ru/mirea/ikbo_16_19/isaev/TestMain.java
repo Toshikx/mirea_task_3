@@ -1,5 +1,7 @@
 package ru.mirea.ikbo_16_19.isaev;
 
+import ru.mirea.ikbo_16_19.isaev.exercise4.Human;
+
 public class TestMain {
     public static void main(String[] args) {
         Circle cir = new Circle(12, 0, 0);
